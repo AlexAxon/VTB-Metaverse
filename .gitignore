@@ -2,6 +2,12 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/*
+!Content/__ExternalActors__
+!Content/__ExternalObjects__
+!Content/Collections
+!Content/Developers
+!Content/Project
 .vscode
 .vs
 *.VC.db
