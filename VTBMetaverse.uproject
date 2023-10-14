@@ -54,10 +54,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "DatasmithGLTFImporter",
-			"Enabled": true
 		}
 	]
 }
